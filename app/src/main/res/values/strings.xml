@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="welcome_message">Welcome to the Weather App</string>
+    <string name="share_location">Share Current Location</string>
+</resources>
